@@ -1,1 +1,1 @@
-# Mental-Health-Platform
+# Mental-Health-Web Platform
